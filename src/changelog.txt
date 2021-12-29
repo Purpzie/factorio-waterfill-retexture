@@ -1,0 +1,43 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2021-12-28
+  Info:
+    - Source link removed due to frequent renames. It'll be up to date on the mod page.
+  Other:
+    - Shortened filenames
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2021-09-19
+  Info:
+    - License changed to Unlicense
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020-01-21
+  Changes:
+    - Now works with any mod that adds water-placing items
+    - Will also attempt to change the icon for any technology named "waterfill"
+    - Won't work with items that place non-vanilla water. Let me know on the mod page, I may add it
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020-01-18
+  Changes:
+    - Added support for Noxys Waterfill
+    - Textures optimised (they aren't really that big in the first place, but whatever)
+  Info:
+    - Source is now at Purpzie/small-factorio-mods instead of Purpzie/waterfill-retexture
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-01-17
+  Changes:
+    - Enforced incompatibility with different waterfill mods (might add support for Noxys Waterfill eventually)
+    - Edited description & set homepage
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-01-16
+  Info:
+    - Updated to Factorio 1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-01-16
+  Info:
+    - Initial release
